@@ -7,7 +7,7 @@ La clasificación se considera un concepto importante en muchos lenguajes de pro
 El algoritmo de clasificación de burbujas es uno de los más fáciles de aprender y ese es el primero que se enseña normalmente. Aquí hay una explicación de 5 minutos sobre cómo funciona el algoritmo de burbuja:
 [https://www.youtube.com/watch?v=xli_FI7CuzA](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
     
 ## 🌱  Cómo iniciar este proyecto
 
@@ -23,7 +23,7 @@ $ git clone https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Importante: recuerda crear un nuevo repositorio, actualizar el control remoto (`git remote set-url origin <tu nueva url>`) y cargar el código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
-</onlyfor>
+</how-to-start>
 
 ## Instrucciones
 
