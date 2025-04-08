@@ -7,7 +7,7 @@ Sorting is considered to be an important concept in many programming languages, 
 The bubble sorting algorithm is one of the easiest to learn, and that is the first one normally taught. Here is a 5min explanation of how the bubble algorithm works:
 [https://www.youtube.com/watch?v=xli_FI7CuzA](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
     
 ## 🌱  How to start this project
 
@@ -23,7 +23,7 @@ $ git clone https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
